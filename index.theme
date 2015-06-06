@@ -1,9 +1,13 @@
 [Icon Theme]
-Name=MDIconPack
+Name=Materialos Icon Theme
 Comment=A community driven material design icon pack
 
 Inherits=
 
 # Directory list
-Directories=
+Directories=48x48/apps,
 
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Fixed
