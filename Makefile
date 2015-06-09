@@ -13,7 +13,7 @@ local:
 	-rm -rf $(INSTALLDIR)/*
 
 	#Copy new contents in
-	cp -rf Ozon/* $(INSTALLDIR)
+	cp -rf $(UUID)/* $(INSTALLDIR)
 
 uninstall:
 	#Uninstall atom-panel
