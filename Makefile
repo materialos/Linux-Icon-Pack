@@ -16,6 +16,5 @@ local:
 	cp -rf $(UUID)/* $(INSTALLDIR)
 
 uninstall:
-	#Uninstall atom-panel
 	-rm -rf $(INSTALLDIR)
 
