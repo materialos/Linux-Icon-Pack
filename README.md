@@ -13,3 +13,7 @@ The link will work after the 2015-06-08.
 #### Ubuntu
 The Ubuntu package will come soon!
 We will give you a link to a daily ppa :)
+
+#### Fedora
+The Fedora package is coming!
+Stay tuned!
