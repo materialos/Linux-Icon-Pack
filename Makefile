@@ -2,19 +2,24 @@ UUID=Materialos
 INSTALLDIR=$(DESTDIR)/usr/share/icons/$(UUID)
 
 all:
+	$(info You need to run "make install" as the super user)
+	$(info in order to install the icon theme)
 
-install: local
-
-local: 
-	#Create dir if not exist
+install:
+	$(info Creating directory if doesn't exist)
 	mkdir -p $(INSTALLDIR)
 
-	#Clear dir from contents
+	$(info Clearing directory)
 	-rm -rf $(INSTALLDIR)/*
 
-	#Copy new contents in
+	$(info Copying content into the directory)
+	cp -rf $(UUID)/* $(INSTALLDIR)
+
+update:
+	$(info Updating the content)
+	-rm -rf $(INSTALLDIR)/*
 	cp -rf $(UUID)/* $(INSTALLDIR)
 
 uninstall:
+	$(info Deleting directory)
 	-rm -rf $(INSTALLDIR)
-
