@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-181 16 48 48"
-	 enable-background="new -181 16 48 48" xml:space="preserve">
-<g id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
+	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#546E7A;}
+	.st1{fill:#E3F2FD;}
+	.st2{fill:#82B1FF;}
+	.st3{opacity:0.2;fill:#1A237E;enable-background:new    ;}
+	.st4{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st5{fill:url(#Long_Shadow_1_);}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#0277BD;}
+	.st8{opacity:0.2;}
+	.st9{fill:#1A237E;}
+	.st10{opacity:0.2;fill:#263238;enable-background:new    ;}
+</style>
+<g id="Layer_1_1_" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
 	<g>
 		<g id="Lower_Layer_7_">
-			<path id="Fill-92_7_" sketch:type="MSShapeGroup" fill="#546E7A" d="M-157,40V29h19c-3.8-6.6-10.9-11-19-11
-				c-8.1,0-15.2,4.4-19,11l9.5,16.5L-157,40"/>
-			<path id="Fill-93_7_" sketch:type="MSShapeGroup" fill="#E3F2FD" d="M-157,29v11l9.5,5.5L-157,62c12.2,0,22-9.8,22-22
-				c0-4-1.1-7.8-3-11H-157"/>
-			<path id="Fill-94_7_" sketch:type="MSShapeGroup" fill="#82B1FF" d="M-157,40l-9.5,5.5L-176,29c-1.9,3.2-3,7-3,11
-				c0,12.1,9.8,22,22,22l9.5-16.5L-157,40"/>
+			<path id="Fill-92_7_" sketch:type="MSShapeGroup" class="st0" d="M69,266V151.4h197.9C227.3,82.7,153.4,36.8,69,36.8
+				S-89.3,82.7-128.9,151.4l99,171.9L69,266"/>
+			<path id="Fill-93_7_" sketch:type="MSShapeGroup" class="st1" d="M69,151.4V266l99,57.3L69,495.2
+				c127.1,0,229.2-102.1,229.2-229.2c0-41.7-11.5-81.2-31.3-114.6H69"/>
+			<path id="Fill-94_7_" sketch:type="MSShapeGroup" class="st2" d="M69,266l-99,57.3l-99-171.9c-19.8,33.3-31.3,72.9-31.3,114.6
+				c0,126,102.1,229.2,229.2,229.2l99-171.9L69,266"/>
 		</g>
 		<g id="Lowered_Tint_x2B_Shade_7_">
-			<path opacity="0.2" fill="#1A237E" d="M-157,61.7c-12.1,0-21.9-9.8-22-21.9c0,0,0,0.1,0,0.1c0,12.1,9.8,22,22,22
-				c12.2,0,22-9.8,22-22c0,0,0-0.1,0-0.1C-135.1,52-144.9,61.7-157,61.7z"/>
-			<path opacity="0.2" fill="#FFFFFF" d="M-176,29.3c3.8-6.6,10.9-11,19-11c8.1,0,15.2,4.4,19,11c1.9,3.2,2.9,6.9,3,10.9
-				c0,0,0-0.1,0-0.1c0-4-1.1-7.8-3-11c-3.8-6.6-10.9-11-19-11c-8.1,0-15.2,4.4-19,11c-1.9,3.2-3,7-3,11c0,0,0,0.1,0,0.1
-				C-179,36.2-177.9,32.5-176,29.3z"/>
+			<path class="st3" d="M69,492C-57,492-159.1,390-160.2,263.9v1c0,126,102.1,229.2,229.2,229.2S298.2,392,298.2,265v-1
+				C297.1,391,195,492,69,492z"/>
+			<path class="st4" d="M-128.9,154.5C-89.3,85.8-15.4,40,69,40s158.3,45.8,197.9,114.6c19.8,33.3,30.2,71.9,31.3,113.5v-1
+				c0-41.7-11.5-81.3-31.3-114.6C227.3,83.7,153.4,37.9,69,37.9S-89.3,83.7-128.9,152.5c-19.8,33.3-31.3,72.9-31.3,114.6v1
+				C-160.2,226.4-148.7,187.9-128.9,154.5z"/>
 		</g>
-		<linearGradient id="Long_Shadow_1_" gradientUnits="userSpaceOnUse" x1="-164.7782" y1="32.2194" x2="-141.4457" y2="55.5519">
+		
+			<linearGradient id="Long_Shadow_1_" gradientUnits="userSpaceOnUse" x1="-164.7375" y1="467.8375" x2="-141.4187" y2="444.5187" gradientTransform="matrix(10.4167 0 0 -10.4167 1704.4167 5057.667)">
 			<stop  offset="0" style="stop-color:#1A237E;stop-opacity:0.2"/>
 			<stop  offset="1" style="stop-color:#1A237E;stop-opacity:5.000000e-002"/>
 		</linearGradient>
-		<path id="Long_Shadow_7_" fill="url(#Long_Shadow_1_)" d="M-149.2,32.3c-2-2-4.8-3.3-7.8-3.3c-6.1,0-11,4.9-11,11
-			c0,3.1,1.3,5.8,3.3,7.8c0,0,7.8,7.8,13.4,13.4c7.6-2,13.5-8,15.6-15.6C-141.4,40-149.1,32.3-149.2,32.3z"/>
+		<path id="Long_Shadow_7_" class="st5" d="M150.3,185.8c-20.8-20.8-50-34.4-81.3-34.4c-63.5,0-114.6,51-114.6,114.6
+			c0,32.3,13.5,60.4,34.4,81.3c0,0,81.3,81.3,139.6,139.6C207.5,466,269,403.5,290.9,324.3C231.5,266,151.3,185.8,150.3,185.8z"/>
 		<g id="Raised_Object_7_">
 			<g id="path-10_8_">
 				
-					<image overflow="visible" opacity="0.2" width="46" height="47" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAvCAYAAACc5fiSAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+					<image style="overflow:visible;opacity:0.2;enable-background:new    ;" width="46" height="47" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAvCAYAAACc5fiSAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAC+9JREFUeNrsWc1uHMcRruru+d1d
 LknFUUwkAQ3YF9FADnoBH/wK9uvYeZ3kFQzERk4BoptpIIiA6BCIMRRRWi73Z2a6u/JVzyzJtUiR
 km0hBy/U2mHPds/X1V9VfdVD9Mvn3X74Hc8n/y/AeRvTH18z3xdyzSPlXQMfxn05fB8P35+hfXfD
@@ -84,31 +98,26 @@ wmyG6LHyq87Nq/Cmh563nY9vg3/4lD+cfWyWy1Or5+K+qe2oa6wvCwWdSj2tmrQA2ZpExRpkziAh
 ols3QXOEQ7jN53Wo6/2QOP3oQO4C+i0P9o94Y3092O/gnmGqVVKZ6tRU8o2by0IEAUWVpoo21T8q
 JewMHpz9uIP9t3yVMizg4fsIbt8aPc7Q1ylaZGu9qqVfX0VttP33pGJJxZtzU0gKpPHpx4MGebt3
 QT/By6vNm7an6YRAi+1rR6rCg/LsX1w9GGTqz//y6oZxP3y3eXzLfEey/d7z3b0uvMNL2js/7id7
-y/xzvG5n+uWz/fmfAAMATSSx3h64i2oAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 -176 20)">
+y/xzvG5n+uWz/fmfAAMATSSx3h64i2oAAAAASUVORK5CYII=" transform="matrix(10.4167 0 0 10.4167 -128.9166 57.6667)">
 				</image>
 				<g>
-					<path fill="#FFFFFF" d="M-146,40c0,6.1-4.9,11-11,11s-11-4.9-11-11c0-6.1,4.9-11,11-11S-146,33.9-146,40"/>
+					<path class="st6" d="M183.6,266c0,63.5-51,114.6-114.6,114.6S-45.6,329.5-45.6,266S5.5,151.4,69,151.4S183.6,202.5,183.6,266"
+						/>
 				</g>
 			</g>
-			<path id="Fill-104_7_" sketch:type="MSShapeGroup" fill="#0277BD" d="M-148.9,40c0,4.5-3.6,8.1-8.1,8.1s-8.1-3.6-8.1-8.1
-				s3.6-8.1,8.1-8.1S-148.9,35.5-148.9,40"/>
+			<path id="Fill-104_7_" sketch:type="MSShapeGroup" class="st7" d="M153.4,266c0,46.9-37.5,84.4-84.4,84.4s-84.4-37.5-84.4-84.4
+				s37.5-84.4,84.4-84.4S153.4,219.1,153.4,266"/>
 		</g>
-		<g id="Raised_Tint_x2B_Shade_8_" opacity="0.2">
+		<g id="Raised_Tint_x2B_Shade_8_" class="st8">
 			<g>
-				<path fill="#1A237E" d="M-157,51c-6,0-10.9-4.9-11-10.9c0,0,0,0.1,0,0.1c0,6.1,4.9,11,11,11s11-4.9,11-11c0,0,0-0.1,0-0.1
-					C-146.1,46.1-151,51-157,51z"/>
+				<path class="st9" d="M69,380.6c-62.5,0-113.5-51-114.6-113.5v1c0,63.5,51,114.6,114.6,114.6s114.6-51,114.6-114.6v-1
+					C182.5,329.5,131.5,380.6,69,380.6z"/>
 			</g>
 			<g>
-				<path opacity="0.2" fill="#263238" d="M-157,51c-6,0-10.9-4.9-11-10.9c0,0,0,0.1,0,0.1c0,6.1,4.9,11,11,11s11-4.9,11-11
-					c0,0,0-0.1,0-0.1C-146.1,46.1-151,51-157,51z"/>
+				<path class="st10" d="M69,380.6c-62.5,0-113.5-51-114.6-113.5v1c0,63.5,51,114.6,114.6,114.6s114.6-51,114.6-114.6v-1
+					C182.5,329.5,131.5,380.6,69,380.6z"/>
 			</g>
 		</g>
-		<radialGradient id="Finish_1_" cx="-157" cy="39.9963" r="21.9995" fx="-178.8581" fy="37.5053" gradientUnits="userSpaceOnUse">
-			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
-			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-		</radialGradient>
-		<path id="Finish_7_" fill="url(#Finish_1_)" d="M-138,29c-3.8-6.6-10.9-11-19-11c-8.1,0-15.2,4.4-19,11c-1.9,3.2-3,7-3,11
-			c0,12.1,9.8,22,22,22c12.2,0,22-9.8,22-22C-135,36-136.1,32.2-138,29z"/>
 	</g>
 </g>
 </svg>
