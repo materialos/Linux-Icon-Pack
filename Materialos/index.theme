@@ -2,12 +2,19 @@
 Name=Materialos Icon Theme
 Comment=A community driven material design icon pack
 
-Inherits=
+Inherits=gnome,hicolor
 
 # Directory list
-Directories=48x48/apps,
+Directories=48x48/apps,48x48/places
 
 [48x48/apps]
 Size=48
 Context=Applications
 Type=Fixed
+
+[48x48/places]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=22
+MaxSize=256
