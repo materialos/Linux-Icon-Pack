@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-253 -56 192 192"
+	 enable-background="new -253 -56 192 192" xml:space="preserve">
+<g id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+	<g>
+		<g id="Lower_Layer_7_">
+			<path id="Fill-92_7_" sketch:type="MSShapeGroup" fill="#F44336" d="M-157,40V-4h76.1c-15.2-26.3-43.6-44-76.1-44
+				c-32.6,0-60.9,17.8-76.2,44.1l38.1,65.9L-157,40"/>
+			<path id="Fill-93_7_" sketch:type="MSShapeGroup" fill="#FFEB3B" d="M-157-4v44l38.1,22l-38.1,66c48.6,0,88-39.4,88-88
+				c0-16-4.4-31-11.9-44H-157"/>
+			<path id="Fill-94_7_" sketch:type="MSShapeGroup" fill="#4CAF50" d="M-157,40l-38.1,22l-38.1-65.9C-240.7,9-245,24-245,40
+				c0,48.6,39.4,88,88,88l38.1-66L-157,40"/>
+		</g>
+		<g id="Lowered_Tint_x2B_Shade_7_">
+			<path opacity="0.2" fill="#1A237E" d="M-157,127c-48.4,0-87.7-39.1-88-87.4c0,0.1,0,0.3,0,0.4c0,48.6,39.4,88,88,88
+				c48.6,0,88-39.4,88-88c0-0.1,0-0.3,0-0.4C-69.3,87.9-108.6,127-157,127z"/>
+			<path opacity="0.2" fill="#FFFFFF" d="M-233.2-2.9C-218-29.2-189.6-47-157-47c32.6,0,60.9,17.7,76.1,44
+				C-73.4,9.8-69.1,24.7-69,40.6c0-0.2,0-0.4,0-0.6c0-16-4.4-31-11.9-44c-15.2-26.3-43.6-44-76.1-44c-32.6,0-60.9,17.8-76.2,44.1
+				C-240.7,9-245,24-245,40c0,0.2,0,0.4,0,0.6C-244.9,24.7-240.6,9.9-233.2-2.9z"/>
+		</g>
+		<linearGradient id="Long_Shadow_1_" gradientUnits="userSpaceOnUse" x1="-188.1128" y1="8.8886" x2="-94.7829" y2="102.2185">
+			<stop  offset="0" style="stop-color:#BF360C;stop-opacity:0.2"/>
+			<stop  offset="1" style="stop-color:#BF360C;stop-opacity:5.000000e-002"/>
+		</linearGradient>
+		<path id="Long_Shadow_7_" fill="url(#Long_Shadow_1_)" d="M-125.6,9.2C-133.6,1-144.7-4-157-4c-24.3,0-44,19.7-44,44
+			c0,12.3,5,23.4,13.2,31.4c0.2,0.2,31.2,31.2,53.6,53.6c30.3-8.1,54.1-31.9,62.2-62.2C-94.7,40.1-125.4,9.3-125.6,9.2z"/>
+		<g id="Raised_Object_7_">
+			<g id="path-10_8_">
+				
+					<image overflow="visible" opacity="0.2" width="112" height="112" xlink:href="51341A1B.png"  transform="matrix(1 0 0 1 -209 -12)">
+				</image>
+				<g>
+					<path fill="#FFFFFF" d="M-113,40c0,24.3-19.7,44-44,44s-44-19.7-44-44c0-24.3,19.7-44,44-44S-113,15.7-113,40"/>
+				</g>
+			</g>
+			<path id="Fill-104_7_" sketch:type="MSShapeGroup" fill="#0277BD" d="M-124.7,40c0,17.8-14.4,32.3-32.3,32.3
+				s-32.3-14.4-32.3-32.3S-174.8,7.7-157,7.7S-124.7,22.2-124.7,40"/>
+		</g>
+		<g id="Raised_Tint_x2B_Shade_8_" opacity="0.2">
+			<g>
+				<path fill="#1A237E" d="M-157,84c-24.1,0-43.7-19.4-44-43.5c0,0.2,0,0.3,0,0.5c0,24.3,19.7,44,44,44s44-19.7,44-44
+					c0-0.2,0-0.3,0-0.5C-113.3,64.6-132.9,84-157,84z"/>
+			</g>
+			<g>
+				<path opacity="0.2" fill="#263238" d="M-157,84c-24.1,0-43.7-19.4-44-43.5c0,0.2,0,0.3,0,0.5c0,24.3,19.7,44,44,44
+					s44-19.7,44-44c0-0.2,0-0.3,0-0.5C-113.3,64.6-132.9,84-157,84z"/>
+			</g>
+		</g>
+		<radialGradient id="Finish_1_" cx="-157" cy="39.9963" r="87.9982" fx="-244.4322" fy="30.0322" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</radialGradient>
+		<path id="Finish_7_" fill="url(#Finish_1_)" d="M-80.9-4c-15.2-26.3-43.6-44-76.1-44c-32.6,0-60.9,17.8-76.2,44.1
+			C-240.7,9-245,24-245,40c0,48.6,39.4,88,88,88c48.6,0,88-39.4,88-88C-69,24-73.4,9-80.9-4z"/>
+	</g>
+</g>
+</svg>
