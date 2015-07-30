@@ -2,8 +2,9 @@ UUID=Materialos
 INSTALLDIR=$(DESTDIR)/usr/share/icons/$(UUID)
 
 all:
-	$(info You need to run "make install" as the super user)
-	$(info in order to install the icon theme)
+	$(info Run "make install" as the super user to install the icon pack)
+	$(info Run "make update" as the super user to update the icon pack)
+	$(info Run "make uninstall" as the super user to uninstall the icon pack)
 
 install:
 	$(info Creating directory if doesn't exist)
