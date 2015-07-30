@@ -11,8 +11,14 @@ Arch users can install this community maintained [AUR package](https://aur.archl
 The link will work after the 2015-08-08.
 
 #### Ubuntu
-The Ubuntu package will come soon!
-We will give you a link to a daily ppa :)
+The best way to install the Icon Pack is to use our [ppa](https://launchpad.net/~materialos/+archive/ubuntu/ppa)
+Fire up a terminal and run these commands:
+
+```bash
+sudo add-apt-repository ppa:materialos/ppa
+sudo apt-get update
+sudo apt-get install materialos-icon-theme-linux
+```
 
 #### Fedora
 The Fedora package is coming!
