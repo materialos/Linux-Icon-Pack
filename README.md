@@ -10,7 +10,8 @@ Licensed under the Creative Commons Attribution Share-Alike 4.0 International li
 Arch users can install this community maintained [AUR package](https://aur4.archlinux.org/packages/materialos-icon-theme-git/).
 
 #### Ubuntu
-The best way to install the Icon Pack is to use our [ppa](https://launchpad.net/~materialos/+archive/ubuntu/ppa)
+The best way to install the Icon Pack is to use our [ppa](https://launchpad.net/~materialos/+archive/ubuntu/ppa).
+
 Fire up a terminal and run these commands:
 
 ```bash
