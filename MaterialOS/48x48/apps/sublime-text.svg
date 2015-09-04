@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Template" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<path id="Background" fill="#E0E0E0" d="M40,43H8c-1.7,0-3-1.3-3-3V8c0-1.7,1.3-3,3-3h32c1.7,0,3,1.3,3,3v32
+			C43,41.7,41.7,43,40,43z"/>
+		<g id="BG_Tint_x2B_Shade">
+			<path opacity="0.2" fill="#263238" d="M40,42.8H8c-1.6,0-3-1.4-3-3V40c0,1.6,1.4,3,3,3h32c1.6,0,3-1.4,3-3v-0.3
+				C43,41.4,41.6,42.8,40,42.8z"/>
+			<path opacity="0.2" fill="#FFFFFF" d="M40,5H8C6.4,5,5,6.4,5,8v0.3c0-1.6,1.4-3,3-3h32c1.6,0,3,1.4,3,3V8C43,6.4,41.6,5,40,5z"/>
+		</g>
+		<linearGradient id="Long_Shadow_1_" gradientUnits="userSpaceOnUse" x1="10.408" y1="10.8493" x2="41.8981" y2="42.3394">
+			<stop  offset="0" style="stop-color:#212121;stop-opacity:0.2"/>
+			<stop  offset="1" style="stop-color:#212121;stop-opacity:5.000000e-002"/>
+		</linearGradient>
+		<path id="Long_Shadow" fill="url(#Long_Shadow_1_)" d="M42.8,16.1c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2
+			c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2
+			c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2
+			c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2
+			c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2
+			c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2
+			c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c-0.5-0.6-1.3-1-2.2-1H12.8c-1.7,0-3,1.3-3,3v24c0,0.5,0.2,0.9,0.5,1.1
+			c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2
+			c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2
+			c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2
+			c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2
+			c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2
+			c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.1,0.2,0.2c0,0.1,0.1,0.1,0.1,0.1H40c1.6,0,3-1.4,3-3V16.3c0,0,0,0,0,0
+			C42.9,16.2,42.9,16.1,42.8,16.1z"/>
+		<g id="Raised_Element">
+			
+				<image overflow="visible" opacity="0.2" width="54" height="54" xlink:href="data:image/png;base64,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" transform="matrix(1 0 0 1 1 1)">
+			</image>
+			<g>
+				<path fill="#424242" d="M11.3,38.3c-0.8,0-1.5-0.7-1.5-1.5v-24c0-1.7,1.3-3,3-3h22.5c1.7,0,3,1.3,3,3v24c0,0.8-0.7,1.5-1.5,1.5"
+					/>
+			</g>
+		</g>
+		<g id="Raised_Tint_x2B_Shade">
+			<path opacity="0.2" fill="#263238" d="M36.8,38H11.3c-0.8,0-1.5-0.7-1.5-1.5v0.3c0,0.8,0.7,1.5,1.5,1.5h25.5
+				c0.8,0,1.5-0.7,1.5-1.5v-0.3C38.3,37.3,37.6,38,36.8,38z"/>
+			<path opacity="0.2" fill="#FFFFFF" d="M35.3,9.8H12.8c-1.7,0-3,1.3-3,3V13c0-1.7,1.3-3,3-3h22.5c1.7,0,3,1.3,3,3v-0.3
+				C38.3,11.1,36.9,9.8,35.3,9.8z"/>
+		</g>
+		<path id="Spot_Color_1_" fill="#FF9800" d="M19.5,27c1.6,1.2,3,1.7,4.2,1.7c1.2,0,1.7-0.3,1.7-1c0-0.9-1.6-1.3-3.3-2
+			c-2-0.8-4.3-2.3-4.3-5.1c0-3.4,2.7-5.6,6.8-5.6c2.8,0,4.8,1.1,6.3,2.3l-2.6,3.5c-1.2-0.9-2.4-1.4-3.5-1.4c-1,0-1.5,0.3-1.5,1
+			c0,0.9,1.5,1.2,3.2,1.9c2.1,0.8,4.4,2.1,4.4,5.2c0,3.2-2.5,5.7-7.4,5.7c-2.2,0-4.9-1-6.7-2.4L19.5,27z"/>
+		<radialGradient id="Finish_2_" cx="5.875" cy="6.125" r="51.0097" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</radialGradient>
+		<path id="Finish_1_" fill="url(#Finish_2_)" d="M40,43H8c-1.7,0-3-1.3-3-3V8c0-1.7,1.3-3,3-3h32c1.7,0,3,1.3,3,3v32
+			C43,41.7,41.7,43,40,43z"/>
+	</g>
+</g>
+</svg>

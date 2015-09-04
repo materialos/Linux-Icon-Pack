@@ -1,4 +1,4 @@
-UUID=Materialos
+UUID=MaterialOS
 INSTALLDIR=$(DESTDIR)/usr/share/icons/$(UUID)
 
 all:
