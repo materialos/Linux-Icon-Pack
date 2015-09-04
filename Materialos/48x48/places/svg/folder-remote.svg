@@ -14,17 +14,18 @@
    id="Icon"
    x="0px"
    y="0px"
-   viewBox="-371 937 48 48"
-   style="enable-background:new -371 937 48 48;"
+   viewBox="-371 937 192 192"
    xml:space="preserve"
    inkscape:version="0.91 r"
    sodipodi:docname="folder-remote.svg"
    inkscape:export-filename="/home/german/Proyects/Linux-Icon-Pack/Materialos/48x48/places/svg/folder-remote.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"><metadata
+   inkscape:export-ydpi="90"
+   width="192"
+   height="192"><metadata
      id="metadata63"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs61"><defs
        id="defs11"><path
          inkscape:connector-curvature="0"
@@ -219,9 +220,9 @@
      inkscape:window-height="480"
      id="namedview59"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="17.806173"
-     inkscape:cy="29.728247"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="99.051072"
+     inkscape:cy="110.23534"
      inkscape:current-layer="Icon" /><style
      type="text/css"
      id="style3">
@@ -234,13 +235,14 @@
 	.st6{display:none;fill:#8D6E63;}
 </style><rect
      x="-369"
-     y="946.5"
+     y="1090.5"
      class="st6"
      width="44"
      height="32"
      id="rect37"
      style="display:none;fill:#8d6e63" /><g
-     id="g6468"><g
+     id="g6468"
+     transform="matrix(4,0,0,4,1113,-2811)"><g
        id="g6455"><rect
          style="opacity:1;fill:#9e9e9e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5630"
