@@ -1,0 +1,543 @@
+[33mcommit dc6deca3dcc77a00a82c27cf8d8ad56b704c90be[m
+Author: Dominic Philip <domi.a.philip@gmail.com>
+Date:   Fri Sep 4 17:31:27 2015 -0500
+
+    Sorry about the mess I think its fixed
+
+[33mcommit 67167c8a162b3a512a9ea5b6f067ba310e53d51c[m
+Author: Dominic Philip <domi.a.philip@gmail.com>
+Date:   Fri Sep 4 17:30:13 2015 -0500
+
+    Sorry about the mess think its fixed
+
+[33mcommit 7af872a177d92b4b41f2ca1b45c0f58bf647a7d6[m
+Author: Dominic Philip <domi.a.philip@gmail.com>
+Date:   Fri Sep 4 17:16:39 2015 -0500
+
+    New Directories based on Color
+
+[33mcommit b54729f608049157345be996845fd43ad1e7cd24[m
+Author: Dominic Philip <domi.a.philip@gmail.com>
+Date:   Fri Sep 4 17:14:48 2015 -0500
+
+    Created Blue-Grey and Brown Directories.
+
+[33mcommit d36e3adbaa1d842f53c33e26a4fa58e831de1127[m
+Author: Crutchcorn <crutchcorn@gmail.com>
+Date:   Fri Sep 4 15:09:30 2015 -0700
+
+    Reverted all boo-boo changes. Sorry y'all. I went a little command line crazy.
+
+[33mcommit 505f4123c3f7459bcaaa421f94abf3be1bba1e9a[m
+Author: Crutchcorn <crutchcorn@gmail.com>
+Date:   Fri Sep 4 14:56:46 2015 -0700
+
+    added places icons for 16x16 (reverted from commit fe70a27757b16a129ff17c0891dfb89fe2cfb134)
+
+[33mcommit cad610e6701e00091e45dead56fa6efe4911b527[m
+Author: Crutchcorn <crutchcorn@gmail.com>
+Date:   Fri Sep 4 14:55:03 2015 -0700
+
+    Uh oh
+
+[33mcommit db787ff817a3f1028e09fd68633a623ade666170[m
+Author: Crutchcorn <crutchcorn@gmail.com>
+Date:   Fri Sep 4 14:53:04 2015 -0700
+
+    Renamed from Materialos to MaterialOS
+
+[33mcommit fe70a27757b16a129ff17c0891dfb89fe2cfb134[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 23:33:28 2015 +0200
+
+    added places icons for 16x16
+
+[33mcommit 2fe8e8342ace4714acecbdad2616f0e6b2df5617[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 23:27:27 2015 +0200
+
+    added places icons for 22x22
+
+[33mcommit 54952f6d7b7d67699cf2ba05c20e393c1b8c6d8a[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 23:23:25 2015 +0200
+
+    added places icons for 24x24
+
+[33mcommit a1e98352862ecffc623bd635950737846aef3f36[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 23:15:45 2015 +0200
+
+    added places icons for 32x32
+
+[33mcommit f51a64ec1fdee7d73b084d4e3fc59aeedf31fbf6[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 23:09:53 2015 +0200
+
+    added places icons for 64x64
+
+[33mcommit 613fdffd5e429fb537d8d6dba6ccc711674a667c[m
+Author: Philippe Loctaux <loctauxphilippe@users.noreply.github.com>
+Date:   Fri Sep 4 22:51:34 2015 +0200
+
+    Delete TODO
+    
+    don't need this file
+
+[33mcommit d274c4dd77d4bf038e0d94c6bad135a3daf02ac8[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 22:43:23 2015 +0200
+
+    added places icons for 96x96
+
+[33mcommit 4c9b19323c6b9924cd7897be8863e85969ca8b3f[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 22:25:43 2015 +0200
+
+    added places icons for 128x128
+
+[33mcommit 49a645b4567658da3f8bc70a07da426b18ac76d3[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 21:55:50 2015 +0200
+
+    added places icons in 256x256
+
+[33mcommit 354afa6d93a60cebfc1245d85045800e379f4ba7[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 21:55:26 2015 +0200
+
+    added list for all sizes and all folders
+
+[33mcommit 18fd26c9ac8d44d06e6ea9f667c78205014f903f[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 19:32:31 2015 +0200
+
+    added pngs for latests icons
+
+[33mcommit be413aee290e35ce94f615a1c01dbaf5b84a72db[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Sep 4 19:18:09 2015 +0200
+
+    removed the other icon for templates
+
+[33mcommit 5497d146f2d6ad3fd01afbf1b6317abd767c1067[m
+Merge: 11f8023 16f74dd
+Author: Daniel Hickman <danielhickman@users.noreply.github.com>
+Date:   Thu Sep 3 14:54:55 2015 -0700
+
+    Merge pull request #7 from german6/places-and-more
+    
+    Places and more
+
+[33mcommit 16f74ddf7184d5b1162a1c416dc1d3d580b684cb[m
+Author: german6 <german6@users.noreply.github.com>
+Date:   Thu Sep 3 21:25:40 2015 +0200
+
+    Move desktop-settings to categories + add system-settings
+
+[33mcommit e499216af167fefe9e7b80fb3ef67b88b09c9852[m
+Author: german6 <german6@users.noreply.github.com>
+Date:   Thu Sep 3 21:17:03 2015 +0200
+
+    Add media-optical icon (a CD)
+
+[33mcommit b58fd35aa81a40a5630f699c7e68f2fbf2e792bb[m
+Author: german6 <german6@users.noreply.github.com>
+Date:   Thu Sep 3 21:12:59 2015 +0200
+
+    Add Brasero icon
+
+[33mcommit 9b3954c4816cfebba91f0638fdf82e35395f95e9[m
+Author: german6 <german6@users.noreply.github.com>
+Date:   Thu Sep 3 21:11:59 2015 +0200
+
+    Add system-shutdown
+
+[33mcommit f5e34ab5a0ad4933d71be18d756ebb47b44d4839[m
+Author: german6 <german6@users.noreply.github.com>
+Date:   Thu Sep 3 21:08:19 2015 +0200
+
+    Add rest of folder types
+
+[33mcommit 11f80239f6ee5537b6ec514a9ea82308f4f815b8[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Wed Sep 2 21:04:54 2015 +0200
+
+    new icon for templates + pngs for 48x48 + svgs for other sizes
+
+[33mcommit c56ce2791525377f91414dfeb55109429beeb62d[m
+Author: Dominic Philip <domi.a.philip@gmail.com>
+Date:   Tue Sep 1 14:33:12 2015 -0500
+
+    Made Scalable Vector Graphics Version
+
+[33mcommit b19a241867f46cc6f4bf5c0d886ec3be484601ab[m
+Merge: 3be6c69 fa29140
+Author: Daniel Hickman <danielhickman@users.noreply.github.com>
+Date:   Tue Sep 1 02:03:56 2015 -0700
+
+    Merge pull request #4 from german6/pull-request-places
+    
+    Add some places folder icons
+
+[33mcommit fa291404746de2a9d2fb9713f4e597dcc7aea382[m
+Author: german6 <german6@users.noreply.github.com>
+Date:   Tue Sep 1 10:59:27 2015 +0200
+
+    Add some places folder icons
+
+[33mcommit 3be6c69e752c61d6ac62d465b92bac2ab23d20b7[m
+Author: domi-a-philip <domi.a.philip@gmail.com>
+Date:   Mon Aug 31 23:15:37 2015 -0500
+
+    Movies Folder Height Fix
+    
+    The commit by 'Doko170' is me it was an accident since I switched to
+    Windows which had my old account. Sorry about that!
+
+[33mcommit a1346928d3c1294f881bdb689e20980b6da21a6b[m
+Author: domi-a-philip <domi.a.philip@gmail.com>
+Date:   Mon Aug 31 23:09:50 2015 -0500
+
+    Fixed Height
+
+[33mcommit 6c2172b322ea04fe5a0714c82f318a4cb0e6f08c[m
+Author: Doko170 <dominicap@charter.net>
+Date:   Mon Aug 31 22:56:59 2015 -0500
+
+    Added 18 Blue-Grey Folders
+    
+    Blue Grey Folder Icons For Linux
+
+[33mcommit 629bdd0a42b8c2540b2795f6664b8d87f905b05c[m
+Author: Philippe Loctaux <loctauxphilippe@users.noreply.github.com>
+Date:   Wed Aug 19 10:47:10 2015 +0200
+
+    new AUR url
+
+[33mcommit 1ab1e1b00c51ad3cf90e8109990d62f9e1e57127[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Fri Jul 31 18:41:21 2015 +0200
+
+    typos in readme
+
+[33mcommit 5e4aa014e98386999de46bbde86ab1e69f491852[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Thu Jul 30 22:44:36 2015 +0200
+
+    removed the date and gave a working link
+
+[33mcommit 00eb577fd09b39b1d48d348e3391513a06755303[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Thu Jul 30 22:40:25 2015 +0200
+
+    added commands for ubuntu
+
+[33mcommit e5a85579dcd102cb2b844bed5d6e6a7210de0821[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Thu Jul 30 22:36:35 2015 +0200
+
+    news messages for makefile
+
+[33mcommit a50b9600dfccedc33a4335d3f6d83732baea7da2[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Thu Jul 30 05:39:56 2015 -0700
+
+    Added symblink
+
+[33mcommit 398682e6ee1f84d56d0d649b88319c02cfd58567[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Wed Jul 29 10:16:09 2015 -0700
+
+    Added Nautilus and Thunar icons!
+
+[33mcommit fbfd4dda369b1c41a70783d8b3df3e25dde4654f[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Wed Jul 29 07:43:16 2015 -0700
+
+    Added chrome
+
+[33mcommit 8e0394b0e55804900f39fc667d444d4f5f2af325[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Wed Jul 29 07:13:46 2015 -0700
+
+    Added brackets
+
+[33mcommit 1c4b31664f5b6e4ef209eca20fb4dd7dc6d5b3a1[m
+Author: Philippe Loctaux <loctauxphilippe@users.noreply.github.com>
+Date:   Wed Jul 29 14:26:05 2015 +0200
+
+    wrong date for aur link
+
+[33mcommit f492a9044ba31737af89a60f8822a7068b641f8a[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 10:03:44 2015 -0700
+
+    Added download folder
+
+[33mcommit c3f068ccf4201f2da4ca0b008a5505499d4a2758[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 05:44:29 2015 -0700
+
+    Added proper chromium symblinks
+
+[33mcommit 61be303a0f834640ce7ad087fe81efde770eed97[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 02:56:53 2015 -0700
+
+    Added Minecraft
+
+[33mcommit 8f04db043343e599cd2722e0ad9d6cd31f4f1ab5[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 02:46:13 2015 -0700
+
+    Fixed icon centering
+
+[33mcommit d10b68100b6ea6eaf333597a51e5881886be1b46[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 02:36:40 2015 -0700
+
+    Removed finish on troublesome icons
+
+[33mcommit 7c0ba9f905b2ca0f8b3015c7ee492c1cc7b922cb[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 02:14:54 2015 -0700
+
+    Added a few icons by Wayne!
+
+[33mcommit 5c8b1bf81738d376a3139718cf31d3b50a63c929[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat Jul 25 01:44:53 2015 -0700
+
+    Added android studio and firefox
+
+[33mcommit 631820349b15c224841d5c61ba36db801d3a25c6[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 30 23:54:39 2015 +0200
+
+    symlinks again
+
+[33mcommit c493b6392ce5b09dde24d2ee816d320c22ce13cb[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Tue Jun 30 14:45:39 2015 -0700
+
+    Added terminal symblinks
+
+[33mcommit 3dff4a94b3e027504ea41fd3a1be111909e62254[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 30 12:14:21 2015 +0200
+
+    some problems
+
+[33mcommit 2f1645cd3fc9cb2eb615317d4040c15263ad94dd[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 30 12:08:51 2015 +0200
+
+    added fedora package
+
+[33mcommit b8dd97911a2ca902cd079821adc7d08ee47c2ed7[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 30 12:05:51 2015 +0200
+
+    updates for packages
+
+[33mcommit 91eeeb4eec6d892d9906549ecc7409c124966feb[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 30 10:31:34 2015 +0200
+
+    Messages && update option in makefile
+
+[33mcommit 854efb57b51086c6b6832f14cca4f845d0cb5d29[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 30 09:43:12 2015 +0200
+
+    problem with terminal is gone
+
+[33mcommit 217fd4b90bfccd1bc198684030370eda3c77cbdd[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Mon Jun 29 17:08:12 2015 -0700
+
+    Fixed preferences!
+
+[33mcommit 0524cd2d8af3c758814ca540f086b3b9288d161d[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Mon Jun 29 16:58:48 2015 -0700
+
+    Fixed Terminal and Sublime Text icon
+
+[33mcommit 99663035c59ae1ae6360ee2605ad902dc5cce561[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Fri Jun 12 19:05:52 2015 -0700
+
+    Added new sublime text symblink
+
+[33mcommit ebb2e75de3a5d5beb94dd5c569d8cbdac91af986[m
+Author: Daniel Hickman <danielhickman@users.noreply.github.com>
+Date:   Wed Jun 10 11:11:20 2015 -0700
+
+    Update AUTHORS
+    
+    :/ My person email is out there forever
+
+[33mcommit 8e967a4f4a435ded084468d43c47b8578314f4cf[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Tue Jun 9 22:49:19 2015 -0700
+
+    Moved gnome-settings to the right place
+
+[33mcommit b02af60469e138ca33982d1a07ca52162c27a723[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Tue Jun 9 20:34:12 2015 -0700
+
+    Added gnome-settings
+
+[33mcommit 5fe19539ce9b5ce519d5507abcf5b55b0db3a36e[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 22:00:56 2015 +0200
+
+    done for Makefile
+
+[33mcommit e0ade3fe08fb8c1ac24cfc8ce29bcc953dfc733f[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:58:49 2015 +0200
+
+    oops
+
+[33mcommit 8ba3fccf2ad4a0b269fedffc27d47910c452ceaf[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:58:12 2015 +0200
+
+    oops
+
+[33mcommit 9861d112137ca9a5955d2154c1f396909ef4698c[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:56:45 2015 +0200
+
+    update for Makefile
+
+[33mcommit 1cea3f377313270f3e887b15ffb428a4ae5ddb70[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:56:01 2015 +0200
+
+    new folder
+
+[33mcommit 41e2b6722cd39d33bb178c93fc5ca092eb85c531[m
+Merge: 564f777 608dd50
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:54:30 2015 +0200
+
+    Merge branch 'master' of https://github.com/materialos/Linux-Icon-Pack
+
+[33mcommit 564f7777fba144e41cf16c6e19629ddca5e79285[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:54:14 2015 +0200
+
+    added makefile
+
+[33mcommit 608dd50eb6bf37e69fc3c87a08ae36ffa5a0c52c[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Tue Jun 9 12:45:12 2015 -0700
+
+    Update AUTHORS
+
+[33mcommit dd86864cc15225bdf95824d4dbe281a8db8db039[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:43:46 2015 +0200
+
+    AUTHORS
+
+[33mcommit ad41b33e9665eaf3e791e8f057f9a2bd51e20be9[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:42:46 2015 +0200
+
+    TODO
+
+[33mcommit aa3ce42b0442e25afa495803413b9f14b0596277[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Tue Jun 9 21:40:10 2015 +0200
+
+    names
+
+[33mcommit a13f10a7c5eceac767f51c0a1a00789125c93c62[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Sun Jun 7 03:06:40 2015 -0700
+
+    Added settings
+
+[33mcommit d317cbdb1ae404338cf4358cdc4350c4746ff0c0[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Sun Jun 7 02:54:52 2015 -0700
+
+    Added gallery
+
+[33mcommit b85f0819e69e84fa520352d963523cdbe39015d6[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Sun Jun 7 11:56:45 2015 +0200
+
+    good name for app
+
+[33mcommit c300b683fb0b1ba64a20107823a8c0c72c312958[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Sun Jun 7 02:27:37 2015 -0700
+
+    Fixed terminal's icon and added sublimetext
+
+[33mcommit 0bb394b06eae74ee7f4145b67969fbc56db44cdb[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Sun Jun 7 02:02:33 2015 -0700
+
+    Added terminal.svg
+
+[33mcommit 08485040596c784e07a173d461abbcac6ca81c76[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Sat Jun 6 22:09:51 2015 +0200
+
+    added mail.svg
+
+[33mcommit 5b10b7961ca20a0362040cf051f7b6075c22b589[m
+Author: Philippe Loctaux <loctauxphilippe@gmail.com>
+Date:   Sat Jun 6 20:14:30 2015 +0200
+
+    let's do it
+
+[33mcommit 1abc29f26598dc8e2202189adc96b2b084da56ad[m
+Author: Daniel Hickman <danielhickman9@gmail.com>
+Date:   Mon May 4 20:21:39 2015 -0700
+
+    Graphics Licence
+
+[33mcommit 780b2999669b5d88f26b8029cc75e6b0405204f4[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Mon May 4 00:36:33 2015 -0700
+
+    Fixed repo migration
+
+[33mcommit 9aa5d516d56db1f4192d7c7a013f315389819143[m
+Author: Daniel Hickman <danielhickman@users.noreply.github.com>
+Date:   Sun May 3 16:41:23 2015 -0700
+
+    Update README.md
+
+[33mcommit 61cf5550092348c6f3c719aadcbc525bd8b062ea[m
+Author: Daniel Hickman <danielhickman@users.noreply.github.com>
+Date:   Sun May 3 16:38:37 2015 -0700
+
+    Update README.md
+
+[33mcommit 9ca2de7917d32bb87e17535aa884d83b596618ba[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat May 2 19:07:51 2015 -0700
+
+    Fixed name
+
+[33mcommit 1a052eceb5781c495b0f8c6ed2289341f303d7a8[m
+Author: crutchcorn <crutchcorn@gmail.com>
+Date:   Sat May 2 18:35:49 2015 -0700
+
+    Initial commit
+
+[33mcommit af53145c3b9ae39becad533221409f4b6d315cf1[m
+Author: Corbin Crutchley <crutchcorn@gmail.com>
+Date:   Sat May 2 18:24:23 2015 -0700
+
+    Initial commit
