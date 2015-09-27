@@ -21,7 +21,7 @@
    sodipodi:docname="nautilus.svg"><metadata
      id="metadata65"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs63" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,8 +36,8 @@
      id="namedview61"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.40678"
-     inkscape:cy="24"
+     inkscape:cx="-10.677966"
+     inkscape:cy="23.593221"
      inkscape:window-x="47"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
 	.st6{opacity:0.2;clip-path:url(#SVGID_2_);fill:#3E2723;}
 </style><g
      id="g5"
-     transform="matrix(1.2236964,0,0,1.2236964,77.62264,-215.0334)"><g
+     transform="matrix(1.1710526,0,0,1.1710526,59.355252,-164.4401)"><g
        id="g7"><g
          id="g9"><defs
            id="defs11"><path
@@ -103,11 +103,11 @@
            clip-path="url(#SVGID_2_)"><image
              sodipodi:absref="/home/dominic/Documents/Git/Linux-Icon-Pack/MaterialOS/48x48/apps/1D54E5E8.png"
              xlink:href="1D54E5E8.png"
-             id="image26"
-             transform="translate(-372,941)"
-             height="46"
+             style="overflow:visible;opacity:0.2"
              width="58"
-             style="overflow:visible;opacity:0.2" /><g
+             height="46"
+             transform="translate(-372,941)"
+             id="image26" /><g
              id="g28"><rect
                x="-363.79999"
                y="949.90002"
@@ -121,11 +121,11 @@
            clip-path="url(#SVGID_2_)"><image
              sodipodi:absref="/home/dominic/Documents/Git/Linux-Icon-Pack/MaterialOS/48x48/apps/1D54E5EF.png"
              xlink:href="1D54E5EF.png"
-             id="image33"
-             transform="translate(-374,944)"
-             height="49"
+             style="overflow:visible;opacity:0.2"
              width="63"
-             style="overflow:visible;opacity:0.2" /><g
+             height="49"
+             transform="translate(-374,944)"
+             id="image33" /><g
              id="g35"><path
                class="st5"
                d="m -363.4,952.4 32.8,0 c 1.4,0 2.6,1.2 2.6,2.6 l 0,18.6 c 0,1.4 -1.2,2.6 -2.6,2.6 l -32.8,0 c -1.4,0 -2.6,-1.2 -2.6,-2.6 l 0,-18.6 c 0,-1.5 1.2,-2.6 2.6,-2.6 z"
