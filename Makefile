@@ -16,3 +16,4 @@ uninstall:
 	$(info Deleting directories)
 	-rm -rf $(INSTALLDIR)MaterialOS
 	-rm -rf $(INSTALLDIR)MaterialOS-BlueGray
+	-rm -rf $(INSTALLDIR)MaterialOS-Orange
