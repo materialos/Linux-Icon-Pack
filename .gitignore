@@ -1,0 +1,5 @@
+#Pictures in Tools folder (but no subfolders)
+Tools/*.png
+Tools/*.svg
+!Tools/*/*.svg
+!Tools/*/*.png
