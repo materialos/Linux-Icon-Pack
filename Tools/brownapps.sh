@@ -33,6 +33,19 @@ for f in *.png; do
 	mv icon.png ../Icons/MaterialOS/84x84/$LOCATION/$f
 
 	cp $f icon.png
+	convert icon.png -resize 96x96 icon.png
+	mv icon.png ../Icons/MaterialOS/48x48@2x/$LOCATION/$f
+
+	cp $f icon.png
 	convert icon.png -resize 128x128 icon.png
 	mv icon.png ../Icons/MaterialOS/128x128/$LOCATION/$f
+
+	cp $f icon.png
+	convert icon.png -resize 512x512 icon.png
+	mv icon.png ../Icons/MaterialOS/512x512/$LOCATION/$f
+
+	cp $f icon.png
+	convert icon.png -resize 1024x1024 icon.png
+	mv icon.png ../Icons/MaterialOS/512x512@2x/$LOCATION/$f
+
 done
