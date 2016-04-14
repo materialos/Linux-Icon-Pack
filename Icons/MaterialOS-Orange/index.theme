@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=MaterialOS-BlueGray
-Comment=Blue Gray folder colors for MaterialOS
+Name=MaterialOS-Orange
+Comment=Orange folder colors for MaterialOS
 
 Inherits=MaterialOS,Adwaita
 
