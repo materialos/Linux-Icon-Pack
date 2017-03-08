@@ -21,5 +21,5 @@ sudo apt-get install materialos-icon-theme-linux
 ```
 
 #### Fedora
-The Fedora package is coming!
-Stay tuned!
+We'd love to have our icon pack on Fedora!
+If you know or know someone who can make a package, it would be awesome! Feel free to contact us!
